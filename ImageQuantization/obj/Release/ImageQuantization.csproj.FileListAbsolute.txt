@@ -1,0 +1,3 @@
+D:\refaey\Image-Color-Quantization-\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+D:\refaey\Image-Color-Quantization-\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+D:\refaey\Image-Color-Quantization-\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.cache
